@@ -1,0 +1,10 @@
+playerId,displayName,teamAbbreviation,position,rosterSlotId,rosterSlotName,salary,points
+1257420,LaMelo Ball,CHA,PG/SG,464,G,10300,216.21
+338365,Stephen Curry,GSW,PG,465,UTIL,11400,106.72999999999999
+844476,Kyle Kuzma,WAS,SF/PF,460,PF,6500,41.89
+1241585,Jalen Suggs,ORL,PG/SG,459,SG,5200,32.95
+697644,Alex Caruso,CHI,PG/SG,458,PG,5200,31.31
+679478,Steven Adams,MEM,C,462,C,4400,24.76
+949273,Grant Williams,BOS,PF/C,463,F,3900,17.63
+844045,Keita Bates-Diop,SAS,SF/PF,461,SF,3000,0.6399999999999997
+total,total,total,total,total,total,49900,472.11999999999995

@@ -1,0 +1,10 @@
+playerId,displayName,teamAbbreviation,position,rosterSlotId,rosterSlotName,salary,points
+338365,Stephen Curry,GSW,PG,458,PG,11400,116.32
+463121,Damian Lillard,POR,PG,465,UTIL,9700,73.35
+1323503,Josh Giddey,OKC,SG/SF,460,PF,6600,42.86
+697644,Alex Caruso,CHI,PG/SG,459,SG,5400,31.31
+1134693,Luguentz Dort,OKC,SG/SF,463,F,5100,26.91
+697720,Kyle Anderson,MEM,SF/PF,461,SF,4600,22.04
+949273,Grant Williams,BOS,PF/C,462,C,3800,16.0
+842969,Caleb Martin,MIA,SG/SF,464,G,3400,12.06
+total,total,total,total,total,total,50000,340.85
